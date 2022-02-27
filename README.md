@@ -4,5 +4,5 @@
 语言： C++
 
 
-执行main.cpp可以直接看到两个task在任务文档中所给的测试用例的结果。
+order_book.cpp实现了一个简易orderbook，modify.cpp实现了一个从当前挂单指令情况变化到目标指令情况的算法。
 输入均采用读取txt文件。
